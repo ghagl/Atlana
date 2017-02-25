@@ -1,5 +1,5 @@
 ## Atlana
-Atlana is a Content Management Framework (CMF) intended to be a one-size-fits-all framework via its modules. You can use Atlana with your existing libraries, preferably with Composer.
+Atlana is a Content Management Framework (CMF) intended to be suitable for everything via its modules. You can use Atlana with your existing libraries, preferably with Composer.
 
 The biggest benefit with Atlana is the module management, which is very suitable for modular PHP applications. Imagine you have dozens of PHP classes, which are modules you want to integrate into your web application.
 
