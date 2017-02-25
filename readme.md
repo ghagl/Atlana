@@ -23,7 +23,7 @@ Instead for creating many classes manually, you give that task to Atlana.
 
     require_once 'Atlana/Atlana.php';
 
-    $atlana = new Atlana(false, 'default', false);
+    $atlana = new Atlana(false, 'default_cfg_path', false);
     // debug=false,cfg=default_cfg_path, sqluse=false
     $atlana->loadTemplates('atlana');
     //template loading from views/
