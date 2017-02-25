@@ -1,0 +1,15 @@
+{
+	"name": "ghagl/Atlana",
+	"description": "Atlana web library",
+	"require": {
+		"league/plates":"3.*",
+		"ezyang/htmlpurifier":"dev-master"
+	},
+	"license": "AGPL v3.0",
+	"authors": [
+		{
+			"name": "Gustaf Haglund",
+			"email": "ghaglund@bahnhof.se"
+		}
+	]
+}
